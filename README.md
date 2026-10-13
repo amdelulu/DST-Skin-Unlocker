@@ -25,7 +25,7 @@ The patch files are available to supporters who contribute through Ko-fi. Your s
 If you want access to the files, use the link below to support the project, then contact me on Telegram with your Ko-fi support details.
 
 <p align="center">
-  <a href="https://ko-fi.com/YOUR_KOFI_USERNAME">
+  <a href="https://ko-fi.com/amdelulu">
     <img src="https://storage.ko-fi.com/cdn/kofi5.png" alt="Support me on Ko-fi" height="45">
   </a>
 </p>
@@ -35,7 +35,7 @@ If you want access to the files, use the link below to support the project, then
   Support the project on Ko-fi, then message me on Telegram.
 </p>
 <p align="center">
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+  <a href="https://t.me/amdelulu">
     Contact me on Telegram
   </a>
 </p>
